@@ -6,7 +6,10 @@
 
 ## Description
 
-x
+Abstraction - This project contains abstract and concrete classes, where properties are passed to sub classes from above.
+Inheritance - Classes inherit properties from their abstraction, or superclass.
+Encapsulation - These classes are scoped, and share information sleectively.
+Polymorphism -
 
 ------------------------------
 
@@ -28,8 +31,8 @@ Then select and open ```WordGuessGame.sln```
 
 ## Visuals
 
-##### Application Start
-<!-- ![Capture](https://github.com/jasonb315/Lab03-system-io/blob/master/assets/home.JPG) <br> -->
+##### Class Map
+![Capture](https://github.com/jasonb315/DotNetMotors/blob/master/assets/class_map-01.JPG) <br>
 
 
 ------------------------------
