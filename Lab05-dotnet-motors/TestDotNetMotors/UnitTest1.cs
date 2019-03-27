@@ -298,8 +298,6 @@ namespace TestDotNetMotors
             Assert.Equal("hoooooooooonk", s);
         }
 
-        //
-
         [Fact]
         public void TowSemiTruck()
         {
