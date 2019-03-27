@@ -32,7 +32,7 @@ Then select and open ```WordGuessGame.sln```
 ## Visuals
 
 ##### Class Map
-![Capture](https://github.com/jasonb315/DotNetMotors/blob/master/assets/class_map-01.JPG) <br>
+![Capture](https://github.com/jasonb315/DotNetMotors/blob/master/assets/class_map-01.jpg) <br>
 
 
 ------------------------------
