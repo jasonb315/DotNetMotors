@@ -332,6 +332,31 @@ namespace TestDotNetMotors
             Assert.Equal("100 clowns get out", s);
         }
 
+        [Fact]
+        public void IReverseMackAnthem()
+        {
+            MackAnthem vehicle = new MackAnthem();
+            string s = vehicle.Reverse();
+            Assert.Equal("beeep beeep beeep", s);
+        }
+
+        [Fact]
+        public void IReverseSubaruBrat()
+        {
+            SubaruBrat vehicle = new SubaruBrat();
+            string s = vehicle.Reverse();
+            Assert.Equal("beeep beeep beeep", s);
+        }
+
+
+        [Fact]
+        public void IReverseSubaruBahah()
+        {
+            SubaruBahah vehicle = new SubaruBahah();
+            string s = vehicle.Reverse();
+            Assert.Equal("beeep beeep beeep", s);
+        }
+
         //ClownCar
         //McQueen
         //MackAnthem

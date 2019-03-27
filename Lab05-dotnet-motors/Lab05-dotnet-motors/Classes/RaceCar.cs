@@ -15,5 +15,6 @@ namespace Lab05_dotnet_motors.Classes
         {
             return "FROOSH";
         }
+
     }
 }
