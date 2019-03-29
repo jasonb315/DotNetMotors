@@ -365,6 +365,14 @@ namespace TestDotNetMotors
             Assert.Equal("Here ya go kids!", s);
         }
 
+        [Fact]
+        public void IReverseCreamClownCar()
+        {
+            ClownCar vehicle = new ClownCar();
+            string s = vehicle.ServeIceCream();
+            Assert.Equal("wonka wonka", s);
+        }
+
         //ClownCar
         //McQueen
         //MackAnthem

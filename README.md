@@ -40,3 +40,5 @@ Then select and open ```WordGuessGame.sln```
 ## Change Log
 
 1.0: 25MAR2019 *Initial publish*
+
+1.1: 29MAR2019 ClownCar given multiple Interface
