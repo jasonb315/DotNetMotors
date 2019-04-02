@@ -366,10 +366,10 @@ namespace TestDotNetMotors
         }
 
         [Fact]
-        public void IReverseCreamClownCar()
+        public void IReverseClownCar()
         {
             ClownCar vehicle = new ClownCar();
-            string s = vehicle.ServeIceCream();
+            string s = vehicle.Reverse();
             Assert.Equal("wonka wonka", s);
         }
 
