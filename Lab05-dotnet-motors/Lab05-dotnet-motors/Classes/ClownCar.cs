@@ -14,7 +14,7 @@ namespace Lab05_dotnet_motors.Classes
 
         public string Reverse()
         {
-            throw new NotImplementedException("wonka wonka");
+            return("wonka wonka");
         }
 
         public string ServeIceCream()
