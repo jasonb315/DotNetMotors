@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Lab05_dotnet_motors.Classes
 {
+    /// <summary>
+    ///     McQueen extends RaceCar
+    /// </summary>
     public class McQueen : RaceCar
     {
         public override decimal BasePrice { get; set; }

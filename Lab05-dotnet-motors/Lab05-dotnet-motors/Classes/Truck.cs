@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Lab05_dotnet_motors.Classes
 {
+    /// <summary>
+    ///     Truck extends Automobile. Interface: IReverse
+    /// </summary>
     abstract public class Truck : Automobile, IReverse
     {
         public abstract decimal BasePrice { get; set; }
