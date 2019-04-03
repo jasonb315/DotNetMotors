@@ -4,6 +4,9 @@ using System.Text;
 
 namespace Lab05_dotnet_motors.Classes
 {
+    /// <summary>
+    ///     ClownCar extends CommuterCar. Interface: IServeIceCream, IReverse
+    /// </summary>
     public class ClownCar : CommuterCar, IServeIceCream, IReverse
     {
         
